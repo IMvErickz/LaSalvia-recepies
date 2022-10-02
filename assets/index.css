@@ -11,6 +11,26 @@ body{
 }
 span{
     color: white;
-    font-family: Bradley Hand,
-        cursive;
+    font-family: Bradley Hand, cursive;
+}
+
+#camp{
+    border-color: white;
+    align-items: center;
+    text-align: center;
+}
+
+#tittle{
+    color: white;
+    font-family: Bradley Hand, cursive;
+}
+
+#paragrafo{
+    color: white;
+    font-size: 2.5rem;
+    font-family: Bradley Hand, cursive;
+}
+
+#LaSalvia{
+    width: 35rem;
 }
