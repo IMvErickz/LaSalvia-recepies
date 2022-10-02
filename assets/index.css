@@ -34,3 +34,20 @@ span{
 #LaSalvia{
     width: 35rem;
 }
+
+#footerIncon{
+    width: 1.8rem;
+    margin-left: 2.1rem;
+}
+
+#divIncons{
+    margin-right: 1.8rem;
+}
+
+#footer{
+    background-color: black;
+}
+
+#pFooter{
+    color: white;
+}
