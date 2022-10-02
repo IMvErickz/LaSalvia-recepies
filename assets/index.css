@@ -5,3 +5,12 @@ body{
 #navBar{
     background-color: black !important;
 }
+
+#logo{
+    width: 180px;
+}
+span{
+    color: white;
+    font-family: Bradley Hand,
+        cursive;
+}
