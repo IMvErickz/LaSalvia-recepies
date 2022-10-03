@@ -10,3 +10,24 @@ span {
     color: white;
     font-family: Bradley Hand, cursive;
 }
+
+button{
+    background-color: black !important;
+}
+
+#camp{
+    align-items: center;
+    text-align: center;
+}
+
+body{
+    background-color: #393256;
+}
+
+h1{
+    color: white;
+}
+
+#paragrafo{
+    color: white;
+}
