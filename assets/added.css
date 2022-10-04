@@ -1,0 +1,30 @@
+#navBar {
+    background-color: black !important;
+}
+
+#logo {
+    width: 180px;
+}
+
+span {
+    color: white;
+    font-family: Bradley Hand, cursive;
+}
+
+#camp{
+    align-items: center;
+    text-align: center;
+}
+
+input{
+    width: 5rem !important;
+}
+
+body {
+    background-color: #393256;
+}
+
+#tittle {
+    color: white;
+    font-family: Bradley Hand, cursive;
+}
