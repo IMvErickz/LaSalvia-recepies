@@ -37,16 +37,16 @@
         <h1 id="tittle">Adicionar receita</h1>
         <div class="input-group mb-3">
             <span class="input-group-text" id="basic-addon1">Título da receita</span>
-            <input type="text" class="form-control" aria-label="Username"
+            <input id="receTittle" type="text" class="form-control" aria-label="Username"
                 aria-describedby="basic-addon1">
         </div>
         
         <div class="input-group">
             <span class="input-group-text">Corpo da receita</span>
-            <textarea class="form-control" aria-label="With textarea"></textarea>
+            <textarea id="bodyRecepie" class="form-control" aria-label="With textarea"></textarea>
         </div>
 
-        <button type="button" class="btn btn-primary">Salvar</button>
+        <button type="button" id="button" class="btn btn-primary">Salvar</button>
 
     </fieldset>
 </body>
@@ -54,4 +54,6 @@
     integrity="sha384-u1OknCvxWvY5kfmNBILK2hRnQC3Pr17a+RTT6rIHI7NnikvbZlHgTPOOmMi466C8"
     crossorigin="anonymous"></script>
     <script src="./src/added.js"></script>
+    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+
 </html>
